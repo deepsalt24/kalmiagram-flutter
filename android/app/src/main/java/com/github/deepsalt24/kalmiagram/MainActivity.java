@@ -1,4 +1,4 @@
-package com.example.kalmiagram_flutter;
+package com.github.deepsalt24.kalmiagram;
 
 import android.util.Log;
 
