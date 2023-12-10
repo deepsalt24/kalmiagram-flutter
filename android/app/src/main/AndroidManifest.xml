@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kalmiagram_flutter">
+    package="com.github.deepsalt24.kalmiagram">
    <application
         android:label="kalmiagram_flutter"
         android:name="${applicationName}"
